@@ -1,6 +1,7 @@
 # appliedpractices-dev
 Repository for developer training
 
+
 Reference repo: https://github.com/brajeshmiscals/appliedpractices-dev
 
 1.Clone the repo: git clone https://github.com/brajeshmiscals/appliedpractices-dev.git (Create README.md and .gitignore files)
